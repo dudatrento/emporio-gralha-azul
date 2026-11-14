@@ -4,12 +4,14 @@ Sobre o Empório
 O Empório Gralha Azul é uma loja especializada em produtos artesanais e regionais do Paraná — comidas, bebidas, conservas e itens de despensa que carregam a identidade do estado, do pinhão aos campos gerais, das colônias imigrantes à culinária indígena.
 
 🌲 Linha Pinhão & Araucária
+
 Produtos que celebram o maior símbolo do Paraná.
 - Pinhão Defumado Temperado — Pinhão cozido, defumado em fogo de lenha e temperado com alho e ervas nativas. Ideal como petisco ou acompanhamento de charcutaria. Sugestão de preço: R$ 28,00 / 200g
 - Geleia de Pinhão com Mel de Abelha Nativa — Doce rústico e levemente adocicado, com textura encorpada. Combina com queijos, pães e cucas. Sugestão de preço: R$ 34,00 / 220g
 - Farinha de Pinhão Torrado — Para uso em receitas doces e salgadas. Livre de glúten, de sabor amendoado e profundo. Sugestão de preço: R$ 22,00 / 250g
 
 🧀 Linha das Colônias
+
 Inspirada nas comunidades alemãs, ucranianas, italianas e polonesas do Paraná.
 - Schmaltz Artesanal de Banha com Cebola Caramelizada — Banha de porco batida à mão com cebola dourada e pimenta-do-reino. Tradição alemã, perfeita sobre pão rústico. Sugestão de preço: R$ 26,00 / 180g
 - Kiszka Paranaense — Linguiça de sangue e aveia defumada, receita de inspiração polonesa adaptada com temperos locais. Vendida resfriada. Sugestão de preço: R$ 38,00 / 300g
@@ -17,6 +19,7 @@ Inspirada nas comunidades alemãs, ucranianas, italianas e polonesas do Paraná.
 - Queijo Prato Colonial Maturado — Produzido em pequena escala por família de descendência italiana na Região Metropolitana. Maturação mínima de 30 dias. Sugestão de preço: R$ 65,00 / 400g
 
 🌿 Linha Campos & Ervas
+
 Do ecossistema dos Campos Gerais e da Mata Atlântica paranaense.
 - Chá de Erva-Mate Verde com Ervas da Mata — Blend de erva-mate verde (não tostada) com carqueja, boldo e hortelã silvestre. Colheita artesanal. Sugestão de preço: R$ 24,00 / 80g
 - Mel de Abelha Jataí — Mel de abelha nativa sem ferrão, com sabor delicado e acidez sutil. Colhido em pequenos volumes por apicultor familiar em Guarapuava. Sugestão de preço: R$ 58,00 / 130ml
@@ -27,6 +30,7 @@ Do ecossistema dos Campos Gerais e da Mata Atlântica paranaense.
 - Kombucha de Erva-Mate — Fermentada com erva-mate tostada curitibana e gengibre fresco. Refrescante e probiótica. Sugestão de preço: R$ 18,00 / 300ml
 
 🫙 Linha Conservas & Despensa
+
 - Conserva de Cogumelo Shimeji com Azeite e Alho Negro — Produzida por cultivo familiar em Colombo, região conhecida pela produção de cogumelos. Sugestão de preço: R$ 36,00 / 180g
 - Chimichurri Paranaense — Versão local com ervas frescas da região, pimenta-de-cheiro e vinagre de maçã artesanal. Sugestão de preço: R$ 22,00 / 150g
 - Pasta de Amendoim com Rapadura e Flor de Sal — Amendoim torrado no empório, sem conservantes, com doçura sutil da rapadura mineira. Sugestão de preço: R$ 28,00 / 220g
@@ -36,12 +40,8 @@ Do ecossistema dos Campos Gerais e da Mata Atlântica paranaense.
 - Kit Café Colonial — Geleia de pinhão + schmaltz + farinha de pinhão + chá de erva-mate. Em caixa kraft com laço e cartão. Sugestão de preço: R$ 98,00
 - Kit Gralha Azul Completo — Seleção de 6 produtos à escolha do cliente, com embalagem presente e nota sobre a origem de cada produtor. Sugestão de preço: a partir de R$ 160,00
 
-Algumas sugestões extras
-- Programa "Produtor em Destaque" — Cada mês, um produtor parceiro tem uma mini-biografia e foto expostas no empório e no catálogo.
-- Rótulos ilustrados com a gralha-azul e elementos da flora paranaense — reforça identidade visual e valoriza o produto artesanal.
-- Linha sazonal de pinhão apenas em abril–julho, criando exclusividade e urgência de compra.
-
 🍞 Linha Padaria & Forno Artesanal
+
 Feito em pequenos lotes, assado no dia
 
 Pães
@@ -64,12 +64,8 @@ Roscas & Doces de Forno
 - Bolo de Mel de Abelha Nativa com Gengibre — Bolo de forma úmido, adoçado com mel de jataí e aromatizado com gengibre fresco e cravo. Sem açúcar refinado. Sugestão de preço: R$ 48,00 / forma (aprox. 800g)
 - Sequilhos de Polvilho com Pinhão — Biscoitos leves e crocantes de polvilho azedo com pinhão moído. Levemente salgados, ótimos com chá ou tereré. Sugestão de preço: R$ 18,00 / pacote com aprox. 20 unidades
 
-Funcionamento dessa linha
-- Produção sob encomenda com 48h de antecedência para pães de fermentação longa e cucas grandes — reforça o caráter artesanal e evita desperdício.
-- Vitrine rotativa semanal com um pão ou cuca especial de temporada, usando ingredientes sazonais como figo, marmelo ou uva bordô.
-- "Cuca do mês" como item de edição limitada, destacada com um cartão contando a origem da receita ou do ingrediente principal.
-
 🥩 Linha Salames & Embutidos
+
 Cura lenta, receita de família
 
 - Salame Colonial Tipo Italiano — Produzido com carne suína e bovina em proporção tradicional, curado em câmara fria por mínimo de 45 dias. Tempero com alho, pimenta-do-reino e vinho tinto seco. Sugestão de preço: R$ 52,00 / peça (aprox. 350g)
@@ -81,6 +77,7 @@ Cura lenta, receita de família
 - Tábua Gralha Azul — Seleção montada no empório com salame colonial fatiado, copa, linguiça defumada e acompanhamentos da casa. Sob encomenda para eventos e presentes. Sugestão de preço: a partir de R$ 120,00
 
 🍫 Linha Chocolates Artesanais
+
 Do cacau à barra, com intenção
 
 - Chocolate 70% Cacau com Pinhão Caramelizado — Barra de chocolate amargo bean-to-bar com fragmentos de pinhão caramelizado em rapadura. A combinação mais paranaense possível. Sugestão de preço: R$ 32,00 / 80g
@@ -91,6 +88,7 @@ Do cacau à barra, com intenção
 - Cacau em Pó Natural 100% — Cacau puro sem adição de açúcar ou lecitina, para uso culinário. Origem rastreável de produtor familiar do Vale do Ribeira. Sugestão de preço: R$ 26,00 / 150g
 
 ☕ Linha Cafés
+
 Torrado com cuidado, moído na hora
 
 - Café Gralha Azul — Blend da Casa — Blend exclusivo do empório com grãos do norte do Paraná e do sul de Minas. Torra média, notas de caramelo, castanha e leve acidez cítrica. Disponível em grãos ou moído na hora. Sugestão de preço: R$ 42,00 / 250g
@@ -102,3 +100,12 @@ Torrado com cuidado, moído na hora
 
 Sugestão de combo entre as três linhas
 - Kit "Tarde de Domingo" — Cold brew + barra de chocolate ao leite com erva-mate + mini cuca de farofa + sequilhos de polvilho. Embalagem presente em caixa kraft com barbante e tag escrita à mão. Sugestão de preço: R$ 88,00
+
+
+Algumas observações de funcionamento
+- Produção sob encomenda com 48h de antecedência para pães de fermentação longa e cucas grandes — reforça o caráter artesanal e evita desperdício.
+- Vitrine rotativa semanal com um pão ou cuca especial de temporada, usando ingredientes sazonais como figo, marmelo ou uva bordô.
+- "Cuca do mês" como item de edição limitada, destacada com um cartão contando a origem da receita ou do ingrediente principal.
+- Programa "Produtor em Destaque" — Cada mês, um produtor parceiro tem uma mini-biografia e foto expostas no empório e no catálogo.
+- Rótulos ilustrados com a gralha-azul e elementos da flora paranaense — reforça identidade visual e valoriza o produto artesanal.
+- Linha sazonal de pinhão apenas em abril–julho, criando exclusividade e urgência de compra.
