@@ -32,7 +32,7 @@ Este documento descreve o menu do site, o que cada página mostra e que dados e 
 - **Acesso:** todos
 - **Objetivo:** contar a origem da loja e dar identidade à marca (por que "Gralha Azul", valorização dos produtos do Paraná).
 - **Conteúdo:** texto e imagens, valores da marca, linha do tempo opcional.
-- **API:** nenhuma (página de conteúdo fixo). Aqui também cabe um aviso curto de que a loja, os produtos e os produtores são fictícios (projeto de portfólio), com link para o GitHub.
+- **API:** nenhuma (página de conteúdo fixo). Será colocado um aviso de que a loja, os produtos e os produtores são fictícios (projeto de portfólio), com link para o GitHub.
 
 ## 4. Produtores Parceiros
 - **Acesso:** todos
@@ -45,7 +45,7 @@ Este documento descreve o menu do site, o que cada página mostra e que dados e 
 - **API:** `GET /producers/{id}`, `GET /products?produtor={id}`
 
 ## 5. Carrinho
-- **Acesso:** cliente logado (decisão em aberto: ver final)
+- **Acesso:** cliente logado (?)
 - **Conteúdo:** itens (foto, nome, preço, quantidade editável, subtotal), remover item, total, botão "Finalizar compra".
 - **Estados:** carrinho vazio (com link para Produtos), item sem estoque suficiente.
 - **API:** `GET /cart`, `POST /cart/items`, `PATCH /cart/items/{id}`, `DELETE /cart/items/{id}`
@@ -69,7 +69,7 @@ Este documento descreve o menu do site, o que cada página mostra e que dados e 
 
 ## Área administrativa (fora do menu público)
 
-O administrador **não aparece no menu**. É um usuário comum, marcado como "admin" no banco, que ao entrar vê uma área extra com estas telas (clientes comuns recebem "sem permissão" ao tentar acessar):
+O administrador não aparece no menu. É um usuário comum, marcado como "admin" no banco, que ao entrar vê uma área extra com estas telas:
 
 - **Painel:** números principais (pedidos recentes, produtos com estoque baixo).
 - **Produtos:** listar, criar, editar, ativar/desativar, com upload de foto.
@@ -78,13 +78,11 @@ O administrador **não aparece no menu**. É um usuário comum, marcado como "ad
 
 **API:** `GET/POST/PATCH` em `/products`, `/producers`, `/categories`; `GET /admin/orders`; `PATCH /admin/orders/{id}/status`.
 
-**Sugestão de ordem:** no começo, cadastre produtos e produtores direto pelo painel do Supabase (Table Editor), e construa estas telas só no final do projeto.
-
 ---
 
 ## Telas auxiliares
 
-404 (página não encontrada) · 403 (sem permissão) · erro genérico / API fora do ar (inclui aviso de "servidor acordando" do plano gratuito)
+404 (página não encontrada) · 403 (sem permissão) · erro genérico / API fora do ar (inclui aviso de "servidor acordando" do plano gratuito do Supabase)
 
 ## Componentes reutilizáveis
 
