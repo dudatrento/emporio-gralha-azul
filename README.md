@@ -34,7 +34,7 @@ O Empório Gralha Azul reúne produtos que carregam a identidade do estado, do p
 
 ## Como rodar o back-end
 
-Requisitos: Python 3.13 e um banco PostgreSQL (o projeto usa o Supabase).
+Requisitos: Python 3.13 ou superior e um banco PostgreSQL (o projeto usa o Supabase).
 
 ```bash
 git clone https://github.com/dudatrento/emporio-gralha-azul.git

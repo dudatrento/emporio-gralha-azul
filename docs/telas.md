@@ -25,7 +25,7 @@ Este documento descreve o menu do site, o que cada página mostra e que dados e 
 - **API:** `GET /products?categoria=&produtor=&preco_min=&preco_max=&busca=&ordem=&pagina=`
 
 ### 2.1 Página do produto (abre ao clicar num produto)
-- **Conteúdo:** fotos, nome, preço, descrição, categoria, produtor (com link para a página dele), estoque, quantidade, botão "Adicionar ao carrinho", produtos relacionados.
+- **Conteúdo:** foto, nome, preço, descrição, categoria, produtor (com link para a página dele), estoque, quantidade, botão "Adicionar ao carrinho", produtos relacionados.
 - **API:** `GET /products/{id}`
 
 ## 3. Nossa História
@@ -110,6 +110,4 @@ flowchart LR
 ## Decisões em aberto
 
 - Carrinho para quem não está logado: guardar no navegador e pedir login só no checkout, ou exigir login para adicionar?
-- Produtos em destaque: campo `destaque` no produto ou critério automático (mais recentes)?
-- Uma foto por produto ou várias?
 - Quais status de pedido existem e quem pode mudá-los?
