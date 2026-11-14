@@ -36,10 +36,6 @@ Do ecossistema dos Campos Gerais e da Mata Atlântica paranaense.
 - Pasta de Amendoim com Rapadura e Flor de Sal — Amendoim torrado no empório, sem conservantes, com doçura sutil da rapadura mineira. Sugestão de preço: R$ 28,00 / 220g
 - Extrato de Tomate Seco ao Sol com Orégano — Tomates secos em processo tradicional, processados com azeite e orégano fresco. Sugestão de preço: R$ 32,00 / 160g
 
-🎁 Kits Presentes
-- Kit Café Colonial — Geleia de pinhão + schmaltz + farinha de pinhão + chá de erva-mate. Em caixa kraft com laço e cartão. Sugestão de preço: R$ 98,00
-- Kit Gralha Azul Completo — Seleção de 6 produtos à escolha do cliente, com embalagem presente e nota sobre a origem de cada produtor. Sugestão de preço: a partir de R$ 160,00
-
 🍞 Linha Padaria & Forno Artesanal
 
 Feito em pequenos lotes, assado no dia
@@ -98,7 +94,9 @@ Torrado com cuidado, moído na hora
 - Cápsula Recarregável com Café da Casa — Cápsula de inox reutilizável acompanhada de 100g do blend Gralha Azul. Para quem não abre mão da praticidade mas quer qualidade artesanal. Sugestão de preço: R$ 64,00 / kit
 - Café Gelado Concentrado (Cold Brew) — Extração a frio por 18 horas com grãos do blend da casa. Garrafa de vidro, pronto para servir com gelo ou misturar com leite. Sugestão de preço: R$ 22,00 / 250ml
 
-Sugestão de combo entre as três linhas
+🎁 Kits Presentes
+- Kit Café Colonial — Geleia de pinhão + schmaltz + farinha de pinhão + chá de erva-mate. Em caixa kraft com laço e cartão. Sugestão de preço: R$ 98,00
+- Kit Gralha Azul Completo — Seleção de 6 produtos à escolha do cliente, com embalagem presente e nota sobre a origem de cada produtor. Sugestão de preço: a partir de R$ 160,00
 - Kit "Tarde de Domingo" — Cold brew + barra de chocolate ao leite com erva-mate + mini cuca de farofa + sequilhos de polvilho. Embalagem presente em caixa kraft com barbante e tag escrita à mão. Sugestão de preço: R$ 88,00
 
 
